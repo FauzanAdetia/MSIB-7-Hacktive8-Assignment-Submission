@@ -51,11 +51,11 @@ main{
     color: rgb(238, 218, 247);
 }
 
-p{
+.bottom p{
     text-align: center;
     color: rgb(238, 218, 247);
 }
-h3{
+.bottom h3{
     text-align: center;
     color: rgb(238, 218, 247);
 }
