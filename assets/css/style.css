@@ -34,7 +34,7 @@ main{
     background: rgb(226,198,230);
     background: linear-gradient(135deg, rgba(226,198,230,1) 0%, rgba(173,57,186,1) 51%, rgba(226,198,230,1) 99%);
     border-radius: 100%;
-    border: 2px solid black;
+    border: 2px solid rgb(38, 48, 79);
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
@@ -45,6 +45,7 @@ main{
 }
 .top-right-side h1{
     text-align: center;
+    color: rgb(38, 48, 79);
 }
 .top-right-side h1 span{
     color: rgb(238, 218, 247);
